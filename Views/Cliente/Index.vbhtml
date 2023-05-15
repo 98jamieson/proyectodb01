@@ -15,7 +15,7 @@ End Code
         <tr>
             <th>documento</th>
             <th>nombre</th>
-            <th>nombre2</th>
+            <th>nombre23</th>
             <th>otro nombre</th>
             <th>apellido</th>
             <th>apellido 2</th>
